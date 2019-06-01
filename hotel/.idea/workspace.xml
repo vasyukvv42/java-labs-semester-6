@@ -1,0 +1,1729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6325cff-6f32-4bcc-aa15-a1933da0653d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="var6" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="var6" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="var6" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="var6" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="var6" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="var6" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/api/DAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/morphia/MorphiaDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-67">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/morphia/UserMorphiaDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="965">
+              <caret line="81" column="27" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/SignupCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="14" column="112" lean-forward="true" selection-start-line="14" selection-start-column="112" selection-end-line="14" selection-end-column="112" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="90" selection-start-line="21" selection-start-column="90" selection-end-line="21" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/base.tag">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/navbar.tag">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/util/HashUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="jsf" />
+        <option value="JavaScript File" />
+        <option value="Tag Library Descriptor" />
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/static/css/custom.css" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/LoginCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/SignupCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/chunks/hotelCreationForm.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/hotelCard.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/hotels.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/client/CreateRoomRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/impl/ClientServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/roomRequestCard.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/GetHotelsCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/admin/GetPendingRoomRequestsCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/requests.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/morphia/MorphiaDAOFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/morphia/ReservationMorphiaDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/entity/Room.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/api/HotelDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/morphia/HotelMorphiaDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/api/HotelService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/impl/HotelServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/GetRoomRequestsCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/api/RoomRequestService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/impl/RoomRequestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/AbstractCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/proxy/RoomRequestServiceProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/proxy/ClientServiceProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/entity/Invoice.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/reservationCard.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/reservations.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/client/GetReservationsCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/reservationCard.tag" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/api/ReservationService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/proxy/ReservationServiceProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/impl/ReservationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/MainServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/admin/CreateHotelCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/admin/AcceptRoomRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/client/CreateRoomRequestCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/admin/CreateRoomCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/client/PayInvoiceCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/client/RefillBalanceCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/LogoutCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/entity/RoomRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/roomRequestCard.tag" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/hotelCard.tag" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/signup.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/proxy/HotelServiceProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/navbar.tag" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/base.tag" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="command" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="command" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="command" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="morphia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="chunks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hotel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hotel" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="tags" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="protected" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/chunks" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="edu.kpi.hotel.model.service.api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/chunks" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/static" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/css" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.hotel [tomcatRun]">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.kpi.hotel.Main" />
+      <module name="hotel.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.kpi.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="appRun" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="hotel [tomcatRun]" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tomcatRun" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_var6" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52316" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52317" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6325cff-6f32-4bcc-aa15-a1933da0653d" name="Default Changelist" comment="" />
+      <created>1556028169931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556028169931</updated>
+      <workItem from="1556028172449" duration="6235000" />
+      <workItem from="1558892328199" duration="6750000" />
+      <workItem from="1558905114126" duration="132000" />
+      <workItem from="1558905340620" duration="81000" />
+      <workItem from="1558905551616" duration="27037000" />
+      <workItem from="1559030508088" duration="64109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="104344000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1996805" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2897959" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3298611" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3188119" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32959184" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32871288" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.32967034" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32960597" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/entity/Invoice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/requests.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/reservations.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/api/ReservationDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/chunks/hotelCreationForm.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/api/ReservationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" column="87" selection-start-line="22" selection-start-column="87" selection-end-line="22" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/proxy/ReservationServiceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/impl/ReservationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="69" column="67" selection-start-line="69" selection-start-column="67" selection-end-line="69" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/reservationCard.tag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/admin/AcceptRoomRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/admin/CreateHotelCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/admin/CreateRoomCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/client/CreateRoomRequestCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/client/GetReservationsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/client/PayInvoiceCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="34" column="47" lean-forward="true" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/client/RefillBalanceCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/GetHotelsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/GetRoomRequestsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/entity/RoomRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="122" column="5" lean-forward="true" selection-start-line="122" selection-start-column="5" selection-end-line="122" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2242#2243#0" expanded="true" />
+            <element signature="e#2300#2301#0" expanded="true" />
+            <element signature="e#2339#2340#0" expanded="true" />
+            <element signature="e#2388#2389#0" expanded="true" />
+            <element signature="e#2434#2435#0" expanded="true" />
+            <element signature="e#2488#2489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/roomRequestCard.tag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/signup.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/proxy/HotelServiceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/chunks/signupForm.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/hotels.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.kpi.hotel.model.exception.AccessDeniedException">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.kpi.hotel.model.exception.AccessDeniedException</OriginalElement>
+          <nodes>
+            <node x="718.75" y="971.0">edu.kpi.hotel.model.service.api.RoomRequestService</node>
+            <node x="1834.0" y="1049.0">edu.kpi.hotel.model.dao.morphia.MorphiaDAOFactory</node>
+            <node x="0.0" y="659.0">edu.kpi.hotel.controller.command.LoginCommand</node>
+            <node x="953.2499999999999" y="888.0">edu.kpi.hotel.model.service.proxy.AdministratorServiceProxy</node>
+            <node x="1204.5" y="463.0">edu.kpi.hotel.controller.command.Command</node>
+            <node x="1631.25" y="971.0">dev.morphia.annotations.Embedded</node>
+            <node x="1476.2916666666665" y="888.0">edu.kpi.hotel.model.service.impl.AdministratorServiceImpl</node>
+            <node x="423.25" y="732.0">edu.kpi.hotel.model.dao.api.DAO</node>
+            <node x="2190.0" y="659.0">edu.kpi.hotel.controller.command.client.CreateRoomRequestCommand</node>
+            <node x="978.8333333333331" y="810.0">edu.kpi.hotel.model.service.proxy.UserServiceProxy</node>
+            <node x="0.0" y="810.0">edu.kpi.hotel.model.dao.api.HotelDAO</node>
+            <node x="1865.5" y="971.0">edu.kpi.hotel.model.dao.api.DAOFactory</node>
+            <node x="803.25" y="78.0">java.lang.Enum</node>
+            <node x="2467.0" y="971.0">edu.kpi.hotel.model.util.HashUtil</node>
+            <node x="655.5" y="156.0">edu.kpi.hotel.model.entity.RoomRequestStatus</node>
+            <node x="839.9999999999999" y="659.0">edu.kpi.hotel.controller.command.client.RefillBalanceCommand</node>
+            <node x="1269.0" y="659.0">edu.kpi.hotel.controller.command.SignupCommand</node>
+            <node x="1086.0" y="659.0">edu.kpi.hotel.controller.command.LogoutCommand</node>
+            <node x="1124.0" y="1049.0">edu.kpi.hotel.model.service.proxy.HotelServiceProxy</node>
+            <node x="2172.4583333333335" y="732.0">dev.morphia.annotations.Entity</node>
+            <node x="2472.0" y="659.0">edu.kpi.hotel.controller.command.client.PayInvoiceCommand</node>
+            <node x="1578.0" y="1049.0">edu.kpi.hotel.model.entity.Invoice</node>
+            <node x="864.0" y="312.0">edu.kpi.hotel.model.exception.AccessDeniedException</node>
+            <node x="174.0" y="0.0">javax.servlet.ServletConfig</node>
+            <node x="294.98148148148147" y="156.0">javax.servlet.http.HttpServlet</node>
+            <node x="1777.708333333333" y="810.0">edu.kpi.hotel.model.service.impl.UserServiceImpl</node>
+            <node x="357.0" y="0.0">javax.servlet.Servlet</node>
+            <node x="2078.0" y="971.0">edu.kpi.hotel.model.dao.morphia.MongoConnection</node>
+            <node x="391.75" y="810.0">edu.kpi.hotel.model.dao.morphia.MorphiaDAO</node>
+            <node x="2003.7083333333333" y="810.0">edu.kpi.hotel.model.entity.Hotel</node>
+            <node x="573.0" y="312.0">edu.kpi.hotel.model.exception.NotEnoughBalanceException</node>
+            <node x="508.5" y="156.0">java.lang.Exception</node>
+            <node x="495.0" y="0.0">java.io.Serializable</node>
+            <node x="0.0" y="1049.0">edu.kpi.hotel.model.service.impl.ReservationServiceImpl</node>
+            <node x="174.0" y="659.0">edu.kpi.hotel.controller.command.admin.AcceptRoomRequest</node>
+            <node x="1253.1666666666665" y="810.0">edu.kpi.hotel.model.service.api.AdministratorService</node>
+            <node x="1168.5" y="541.0">edu.kpi.hotel.controller.command.AbstractCommand</node>
+            <node x="1392.6666666666665" y="732.0">edu.kpi.hotel.model.service.api.UserService</node>
+            <node x="1452.0" y="659.0">edu.kpi.hotel.controller.command.client.GetReservationsCommand</node>
+            <node x="281.48148148148147" y="78.0">javax.servlet.GenericServlet</node>
+            <node x="0.0" y="312.0">edu.kpi.hotel.model.exception.ReservationConflictException</node>
+            <node x="579.75" y="810.0">edu.kpi.hotel.model.dao.api.ReservationDAO</node>
+            <node x="13.75" y="898.0">edu.kpi.hotel.model.dao.morphia.HotelMorphiaDAO</node>
+            <node x="2381.7083333333335" y="810.0">edu.kpi.hotel.model.entity.Reservation</node>
+            <node x="508.5" y="78.0">java.lang.Throwable</node>
+            <node x="562.0" y="1049.0">edu.kpi.hotel.model.service.proxy.RoomRequestServiceProxy</node>
+            <node x="214.75" y="898.0">edu.kpi.hotel.model.dao.morphia.RoomRequestMorphiaDAO</node>
+            <node x="2216.7083333333335" y="810.0">edu.kpi.hotel.model.entity.RoomRequest</node>
+            <node x="318.0" y="312.0">edu.kpi.hotel.model.exception.SignInFailedException</node>
+            <node x="1980.0" y="659.0">edu.kpi.hotel.controller.command.GetHotelsCommand</node>
+            <node x="1707.0" y="1049.0">edu.kpi.hotel.model.entity.Room</node>
+            <node x="1716.0" y="659.0">edu.kpi.hotel.controller.command.GetRoomRequestsCommand</node>
+            <node x="1150.5" y="385.0">java.lang.FunctionalInterface</node>
+            <node x="835.0" y="1049.0">edu.kpi.hotel.model.service.impl.RoomRequestServiceImpl</node>
+            <node x="1758.2916666666665" y="888.0">edu.kpi.hotel.model.service.impl.ClientServiceImpl</node>
+            <node x="469.75" y="898.0">edu.kpi.hotel.model.dao.morphia.ReservationMorphiaDAO</node>
+            <node x="874.5" y="156.0">edu.kpi.hotel.model.entity.UserRole</node>
+            <node x="2435.9583333333335" y="732.0">dev.morphia.annotations.Indexes</node>
+            <node x="392.9999999999999" y="659.0">edu.kpi.hotel.controller.command.admin.CreateRoomCommand</node>
+            <node x="152.25" y="971.0">edu.kpi.hotel.model.service.api.ReservationService</node>
+            <node x="214.73148148148147" y="234.0">edu.kpi.hotel.controller.MainServlet</node>
+            <node x="1499.1666666666665" y="810.0">edu.kpi.hotel.model.service.api.ClientService</node>
+            <node x="1248.2916666666665" y="888.0">edu.kpi.hotel.model.service.proxy.ClientServiceProxy</node>
+            <node x="2304.0" y="971.0">edu.kpi.hotel.model.util.DateUtil</node>
+            <node x="138.98148148148147" y="156.0">javax.servlet.annotation.WebServlet</node>
+            <node x="724.75" y="898.0">edu.kpi.hotel.model.dao.morphia.UserMorphiaDAO</node>
+            <node x="486.0" y="234.0">edu.kpi.hotel.model.exception.HotelException</node>
+            <node x="611.9999999999999" y="659.0">edu.kpi.hotel.controller.command.admin.CreateHotelCommand</node>
+            <node x="264.0" y="1049.0">edu.kpi.hotel.model.service.proxy.ReservationServiceProxy</node>
+            <node x="799.25" y="810.0">edu.kpi.hotel.model.dao.api.UserDAO</node>
+            <node x="1343.0" y="1049.0">edu.kpi.hotel.model.service.impl.HotelServiceImpl</node>
+            <node x="2114.7083333333335" y="810.0">edu.kpi.hotel.model.entity.User</node>
+            <node x="796.75" y="0.0">java.lang.Comparable</node>
+            <node x="167.75" y="810.0">edu.kpi.hotel.model.dao.api.RoomRequestDAO</node>
+            <node x="1253.75" y="971.0">edu.kpi.hotel.model.service.api.HotelService</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="edu.kpi.hotel.model.entity.Room" target="dev.morphia.annotations.Embedded">
+              <point x="0.0" y="-14.0" />
+              <point x="1748.0" y="1024.0" />
+              <point x="1719.75" y="1024.0" />
+              <point x="29.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.GetHotelsCommand" target="edu.kpi.hotel.controller.command.AbstractCommand">
+              <point x="0.0" y="-14.0" />
+              <point x="2075.0" y="609.0" />
+              <point x="1311.7916666666665" y="609.0" />
+              <point x="52.79166666666674" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.exception.ReservationConflictException" target="edu.kpi.hotel.model.exception.HotelException">
+              <point x="0.0" y="-14.0" />
+              <point x="149.0" y="282.0" />
+              <point x="507.5" y="282.0" />
+              <point x="-64.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.proxy.ReservationServiceProxy" target="edu.kpi.hotel.model.service.api.ReservationService">
+              <point x="0.0" y="-14.0" />
+              <point x="390.5" y="1024.0" />
+              <point x="308.25" y="1024.0" />
+              <point x="52.0" y="14.0" />
+            </edge>
+            <edge source="javax.servlet.GenericServlet" target="javax.servlet.ServletConfig">
+              <point x="-57.33333333333334" y="-14.0" />
+              <point x="310.14814814814815" y="53.0" />
+              <point x="255.5" y="53.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.morphia.RoomRequestMorphiaDAO" target="edu.kpi.hotel.model.dao.morphia.MorphiaDAO">
+              <point x="58.75" y="-14.0" />
+              <point x="391.0" y="878.0" />
+              <point x="442.75" y="878.0" />
+              <point x="-17.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.morphia.RoomRequestMorphiaDAO" target="edu.kpi.hotel.model.dao.api.RoomRequestDAO">
+              <point x="-58.75" y="-14.0" />
+              <point x="273.5" y="858.0" />
+              <point x="253.75" y="858.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.GetRoomRequestsCommand" target="edu.kpi.hotel.controller.command.AbstractCommand">
+              <point x="0.0" y="-14.0" />
+              <point x="1838.0" y="619.0" />
+              <point x="1296.7083333333335" y="619.0" />
+              <point x="37.708333333333485" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.impl.ReservationServiceImpl" target="edu.kpi.hotel.model.service.api.ReservationService">
+              <point x="0.0" y="-14.0" />
+              <point x="122.0" y="1024.0" />
+              <point x="204.25" y="1024.0" />
+              <point x="-52.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.impl.UserServiceImpl" target="edu.kpi.hotel.model.service.api.UserService">
+              <point x="0.0" y="-14.0" />
+              <point x="1868.208333333333" y="780.0" />
+              <point x="1519.5416666666665" y="780.0" />
+              <point x="54.375" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.proxy.ClientServiceProxy" target="edu.kpi.hotel.model.service.proxy.UserServiceProxy">
+              <point x="-52.0" y="-14.0" />
+              <point x="1300.2916666666665" y="858.0" />
+              <point x="1121.333333333333" y="858.0" />
+              <point x="47.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.entity.User" target="dev.morphia.annotations.Entity">
+              <point x="0.0" y="-14.0" />
+              <point x="2155.7083333333335" y="790.0" />
+              <point x="2209.9583333333335" y="790.0" />
+              <point x="-12.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.api.AdministratorService" target="edu.kpi.hotel.model.service.api.UserService">
+              <point x="0.0" y="-14.0" />
+              <point x="1366.1666666666665" y="790.0" />
+              <point x="1447.0416666666665" y="790.0" />
+              <point x="-18.125" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.api.RoomRequestDAO" target="edu.kpi.hotel.model.dao.api.DAO">
+              <point x="0.0" y="-14.0" />
+              <point x="253.75" y="790.0" />
+              <point x="445.15" y="790.0" />
+              <point x="-14.600000000000023" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.morphia.ReservationMorphiaDAO" target="edu.kpi.hotel.model.dao.api.ReservationDAO">
+              <point x="58.75" y="-14.0" />
+              <point x="646.0" y="878.0" />
+              <point x="665.75" y="878.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.proxy.ClientServiceProxy" target="edu.kpi.hotel.model.service.api.ClientService">
+              <point x="52.0" y="-14.0" />
+              <point x="1404.2916666666665" y="868.0" />
+              <point x="1539.9166666666665" y="868.0" />
+              <point x="-40.75" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.exception.AccessDeniedException" target="edu.kpi.hotel.model.exception.HotelException">
+              <point x="0.0" y="-14.0" />
+              <point x="981.5" y="282.0" />
+              <point x="636.5" y="282.0" />
+              <point x="64.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.api.ReservationDAO" target="edu.kpi.hotel.model.dao.api.DAO">
+              <point x="0.0" y="-14.0" />
+              <point x="665.75" y="790.0" />
+              <point x="474.35" y="790.0" />
+              <point x="14.600000000000023" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.proxy.HotelServiceProxy" target="edu.kpi.hotel.model.service.api.HotelService">
+              <point x="0.0" y="-14.0" />
+              <point x="1223.5" y="1024.0" />
+              <point x="1292.25" y="1024.0" />
+              <point x="-38.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.Command" target="java.lang.FunctionalInterface">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.impl.ClientServiceImpl" target="edu.kpi.hotel.model.service.impl.UserServiceImpl">
+              <point x="49.75" y="-14.0" />
+              <point x="1907.5416666666665" y="868.0" />
+              <point x="1913.458333333333" y="868.0" />
+              <point x="45.25" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.SignupCommand" target="edu.kpi.hotel.controller.command.AbstractCommand">
+              <point x="0.0" y="-14.0" />
+              <point x="1350.5" y="639.0" />
+              <point x="1266.5416666666665" y="639.0" />
+              <point x="7.5416666666667425" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.proxy.UserServiceProxy" target="edu.kpi.hotel.model.service.api.UserService">
+              <point x="0.0" y="-14.0" />
+              <point x="1073.833333333333" y="780.0" />
+              <point x="1410.7916666666665" y="780.0" />
+              <point x="-54.375" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.impl.AdministratorServiceImpl" target="edu.kpi.hotel.model.service.impl.UserServiceImpl">
+              <point x="65.5" y="-14.0" />
+              <point x="1672.7916666666665" y="868.0" />
+              <point x="1822.958333333333" y="868.0" />
+              <point x="-45.25" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.impl.HotelServiceImpl" target="edu.kpi.hotel.model.service.api.HotelService">
+              <point x="0.0" y="-14.0" />
+              <point x="1438.0" y="1024.0" />
+              <point x="1369.25" y="1024.0" />
+              <point x="38.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.morphia.MorphiaDAO" target="edu.kpi.hotel.model.dao.api.DAO">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.api.UserDAO" target="edu.kpi.hotel.model.dao.api.DAO">
+              <point x="0.0" y="-14.0" />
+              <point x="853.75" y="780.0" />
+              <point x="488.95" y="780.0" />
+              <point x="29.19999999999999" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.LogoutCommand" target="edu.kpi.hotel.controller.command.AbstractCommand">
+              <point x="0.0" y="-14.0" />
+              <point x="1167.5" y="639.0" />
+              <point x="1251.458333333333" y="639.0" />
+              <point x="-7.5416666666667425" y="14.0" />
+            </edge>
+            <edge source="java.lang.Enum" target="java.io.Serializable">
+              <point x="-20.5" y="-14.0" />
+              <point x="823.75" y="53.0" />
+              <point x="623.3333333333334" y="53.0" />
+              <point x="51.33333333333337" y="14.0" />
+            </edge>
+            <edge source="javax.servlet.GenericServlet" target="javax.servlet.Servlet">
+              <point x="0.0" y="-14.0" />
+              <point x="367.48148148148147" y="53.0" />
+              <point x="411.5" y="53.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.client.RefillBalanceCommand" target="edu.kpi.hotel.controller.command.AbstractCommand">
+              <point x="0.0" y="-14.0" />
+              <point x="952.9999999999999" y="629.0" />
+              <point x="1236.375" y="629.0" />
+              <point x="-22.625" y="14.0" />
+            </edge>
+            <edge source="javax.servlet.GenericServlet" target="java.io.Serializable">
+              <point x="57.333333333333314" y="-14.0" />
+              <point x="424.8148148148148" y="53.0" />
+              <point x="520.6666666666667" y="53.0" />
+              <point x="-51.333333333333314" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.client.PayInvoiceCommand" target="edu.kpi.hotel.controller.command.AbstractCommand">
+              <point x="0.0" y="-14.0" />
+              <point x="2571.5" y="589.0" />
+              <point x="1341.9583333333335" y="589.0" />
+              <point x="82.95833333333348" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.impl.AdministratorServiceImpl" target="edu.kpi.hotel.model.service.api.AdministratorService">
+              <point x="-65.5" y="-14.0" />
+              <point x="1541.7916666666665" y="858.0" />
+              <point x="1422.6666666666665" y="858.0" />
+              <point x="56.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.entity.Reservation" target="dev.morphia.annotations.Indexes">
+              <point x="36.25" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.api.ClientService" target="edu.kpi.hotel.model.service.api.UserService">
+              <point x="0.0" y="-14.0" />
+              <point x="1580.6666666666665" y="790.0" />
+              <point x="1483.2916666666665" y="790.0" />
+              <point x="18.125" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.impl.RoomRequestServiceImpl" target="edu.kpi.hotel.model.service.api.RoomRequestService">
+              <point x="0.0" y="-14.0" />
+              <point x="957.0" y="1024.0" />
+              <point x="874.75" y="1024.0" />
+              <point x="52.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.morphia.MorphiaDAOFactory" target="edu.kpi.hotel.model.dao.api.DAOFactory">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.morphia.UserMorphiaDAO" target="edu.kpi.hotel.model.dao.morphia.MorphiaDAO">
+              <point x="-43.0" y="-14.0" />
+              <point x="767.75" y="868.0" />
+              <point x="510.75" y="868.0" />
+              <point x="51.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.proxy.AdministratorServiceProxy" target="edu.kpi.hotel.model.service.api.AdministratorService">
+              <point x="67.75" y="-14.0" />
+              <point x="1156.5" y="868.0" />
+              <point x="1309.6666666666665" y="868.0" />
+              <point x="-56.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.client.GetReservationsCommand" target="edu.kpi.hotel.controller.command.AbstractCommand">
+              <point x="0.0" y="-14.0" />
+              <point x="1574.0" y="629.0" />
+              <point x="1281.625" y="629.0" />
+              <point x="22.625" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.exception.SignInFailedException" target="edu.kpi.hotel.model.exception.HotelException">
+              <point x="0.0" y="-14.0" />
+              <point x="435.5" y="292.0" />
+              <point x="550.5" y="292.0" />
+              <point x="-21.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.api.HotelDAO" target="edu.kpi.hotel.model.dao.api.DAO">
+              <point x="0.0" y="-14.0" />
+              <point x="59.0" y="780.0" />
+              <point x="430.55" y="780.0" />
+              <point x="-29.19999999999999" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.client.CreateRoomRequestCommand" target="edu.kpi.hotel.controller.command.AbstractCommand">
+              <point x="0.0" y="-14.0" />
+              <point x="2321.0" y="599.0" />
+              <point x="1326.875" y="599.0" />
+              <point x="67.875" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.exception.HotelException" target="java.lang.Exception">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.admin.CreateRoomCommand" target="edu.kpi.hotel.controller.command.AbstractCommand">
+              <point x="0.0" y="-14.0" />
+              <point x="492.4999999999999" y="609.0" />
+              <point x="1206.208333333333" y="609.0" />
+              <point x="-52.79166666666674" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.MainServlet" target="javax.servlet.annotation.WebServlet">
+              <point x="-36.25" y="-14.0" />
+              <point x="250.98148148148147" y="209.0" />
+              <point x="206.98148148148147" y="209.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.entity.Reservation" target="dev.morphia.annotations.Entity">
+              <point x="-36.25" y="-14.0" />
+              <point x="2417.9583333333335" y="780.0" />
+              <point x="2259.9583333333335" y="780.0" />
+              <point x="37.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.morphia.HotelMorphiaDAO" target="edu.kpi.hotel.model.dao.morphia.MorphiaDAO">
+              <point x="45.25" y="-14.0" />
+              <point x="149.5" y="868.0" />
+              <point x="408.75" y="868.0" />
+              <point x="-51.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.entity.Invoice" target="dev.morphia.annotations.Embedded">
+              <point x="0.0" y="-14.0" />
+              <point x="1632.5" y="1024.0" />
+              <point x="1660.75" y="1024.0" />
+              <point x="-29.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.admin.AcceptRoomRequest" target="edu.kpi.hotel.controller.command.AbstractCommand">
+              <point x="0.0" y="-14.0" />
+              <point x="273.5" y="599.0" />
+              <point x="1191.125" y="599.0" />
+              <point x="-67.875" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.MainServlet" target="javax.servlet.http.HttpServlet">
+              <point x="36.25" y="-14.0" />
+              <point x="323.48148148148147" y="209.0" />
+              <point x="367.48148148148147" y="209.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="java.lang.Throwable" target="java.io.Serializable">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.entity.RoomRequest" target="dev.morphia.annotations.Entity">
+              <point x="0.0" y="-14.0" />
+              <point x="2289.2083333333335" y="790.0" />
+              <point x="2234.9583333333335" y="790.0" />
+              <point x="12.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.proxy.AdministratorServiceProxy" target="edu.kpi.hotel.model.service.proxy.UserServiceProxy">
+              <point x="-67.75" y="-14.0" />
+              <point x="1020.9999999999999" y="868.0" />
+              <point x="1026.333333333333" y="868.0" />
+              <point x="-47.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.entity.UserRole" target="java.lang.Enum">
+              <point x="0.0" y="-14.0" />
+              <point x="933.5" y="131.0" />
+              <point x="864.75" y="131.0" />
+              <point x="20.5" y="14.0" />
+            </edge>
+            <edge source="java.lang.Enum" target="java.lang.Comparable">
+              <point x="20.5" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.entity.Hotel" target="dev.morphia.annotations.Entity">
+              <point x="0.0" y="-14.0" />
+              <point x="2049.2083333333335" y="780.0" />
+              <point x="2184.9583333333335" y="780.0" />
+              <point x="-37.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.morphia.UserMorphiaDAO" target="edu.kpi.hotel.model.dao.api.UserDAO">
+              <point x="43.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.morphia.ReservationMorphiaDAO" target="edu.kpi.hotel.model.dao.morphia.MorphiaDAO">
+              <point x="-58.75" y="-14.0" />
+              <point x="528.5" y="878.0" />
+              <point x="476.75" y="878.0" />
+              <point x="17.0" y="14.0" />
+            </edge>
+            <edge source="java.lang.Exception" target="java.lang.Throwable">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.dao.morphia.HotelMorphiaDAO" target="edu.kpi.hotel.model.dao.api.HotelDAO">
+              <point x="-45.25" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.exception.NotEnoughBalanceException" target="edu.kpi.hotel.model.exception.HotelException">
+              <point x="0.0" y="-14.0" />
+              <point x="708.5" y="292.0" />
+              <point x="593.5" y="292.0" />
+              <point x="21.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.proxy.RoomRequestServiceProxy" target="edu.kpi.hotel.model.service.api.RoomRequestService">
+              <point x="0.0" y="-14.0" />
+              <point x="688.5" y="1024.0" />
+              <point x="770.75" y="1024.0" />
+              <point x="-52.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.LoginCommand" target="edu.kpi.hotel.controller.command.AbstractCommand">
+              <point x="0.0" y="-14.0" />
+              <point x="77.0" y="589.0" />
+              <point x="1176.0416666666665" y="589.0" />
+              <point x="-82.95833333333326" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.entity.RoomRequestStatus" target="java.lang.Enum">
+              <point x="0.0" y="-14.0" />
+              <point x="755.0" y="131.0" />
+              <point x="823.75" y="131.0" />
+              <point x="-20.5" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.model.service.impl.ClientServiceImpl" target="edu.kpi.hotel.model.service.api.ClientService">
+              <point x="-49.75" y="-14.0" />
+              <point x="1808.0416666666665" y="858.0" />
+              <point x="1621.4166666666665" y="858.0" />
+              <point x="40.75" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.admin.CreateHotelCommand" target="edu.kpi.hotel.controller.command.AbstractCommand">
+              <point x="0.0" y="-14.0" />
+              <point x="715.9999999999999" y="619.0" />
+              <point x="1221.2916666666665" y="619.0" />
+              <point x="-37.70833333333326" y="14.0" />
+            </edge>
+            <edge source="javax.servlet.http.HttpServlet" target="javax.servlet.GenericServlet">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+            <edge source="edu.kpi.hotel.controller.command.AbstractCommand" target="edu.kpi.hotel.controller.command.Command">
+              <point x="0.0" y="-14.0" />
+              <point x="0.0" y="14.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.4760312151616499" x="494.16861826697897" y="365.192037470726" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/hotelCard.tag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="92" selection-start-line="28" selection-start-column="92" selection-end-line="28" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/MainServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/AbstractCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/LoginCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="32" column="52" lean-forward="true" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/LogoutCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/proxy/ClientServiceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/proxy/UserServiceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/impl/ClientServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/morphia/HotelMorphiaDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/api/DAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/morphia/MorphiaDAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/morphia/MongoConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/api/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/morphia/MorphiaDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/dao/morphia/UserMorphiaDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/util/HashUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="90" selection-start-line="21" selection-start-column="90" selection-end-line="21" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/base.tag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags/navbar.tag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/model/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="965">
+          <caret line="81" column="27" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/kpi/hotel/controller/command/SignupCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="14" column="112" lean-forward="true" selection-start-line="14" selection-start-column="112" selection-end-line="14" selection-end-column="112" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Gradle : java-labs-semester-6 : var6-1.0-SNAPSHOT.war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jasper</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>var6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: javax.servlet:javax.servlet-api:3.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
